@@ -1,0 +1,61 @@
+h1
+{
+  color:black;
+  background-color: rgb(241, 245, 8);
+  text-align: left;
+  padding: 10px;
+  padding-left: 50px;
+  /* margin-right: 1100px; */
+}
+    p
+    {
+    color:rgb(7, 7, 6);
+    background-color: rgb(248, 245, 245);
+    text-align: center;
+    /* padding: 10px;
+    padding-left: 50px; */
+    /* margin-right: 1100px; */
+    }
+    b
+    {
+    color:black;
+    /* background-color:rgb(250, 236, 231); */
+    text-align: center;
+    
+    /* margin: 120px;
+    width: "100%"; */
+    }
+
+.MyTable
+{
+    text-align: center;
+
+    border: 1px solid black;
+    width: 100%;
+    /* margin-right: 70px; */
+
+}
+
+td
+{
+    border: 1px solid black;
+    background-color: rgb(104, 240, 50);
+    
+}
+
+tr
+{
+    border: 10px solid black;
+    
+}
+
+.abhi
+{
+    /* text-align: center; */
+    margin-left: 300px;
+    margin-right: 400px;
+    /* padding-left: 20px; */
+    background-color:rgb(245, 249, 253);
+    padding-top: 30px;
+
+}
